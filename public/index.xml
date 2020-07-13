@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mökkiklubi</title>
+    <link>http://mokkiklubi.fi/</link>
+    <description>Recent content on Mökkiklubi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-fi</language>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mokkiklubi.fi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Text</title>
+      <link>http://mokkiklubi.fi/elements/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/elements/text/</guid>
+      <description>Text This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link.
+  Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam  Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.</description>
+    </item>
+    
+    <item>
+      <title>Lists</title>
+      <link>http://mokkiklubi.fi/elements/lists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/elements/lists/</guid>
+      <description>Lists Unordered  Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam.  Ordered  Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus.  Actions Primary Default Alt  Small Small Small  Primary Default Alt  Primary Small  Default Small  </description>
+    </item>
+    
+    <item>
+      <title>Table</title>
+      <link>http://mokkiklubi.fi/elements/table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/elements/table/</guid>
+      <description>Table Default    NAME DESCRIPTION PRICE     Item 1 Ante turpis integer aliquet porttitor. 29.99   Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99   Item 3 Morbi faucibus arcu accumsan lorem. 29.99   Item 4 Vitae integer tempus condimentum. 19.99   Item 5 Ante turpis integer aliquet porttitor. 29.99     100.00    </description>
+    </item>
+    
+    <item>
+      <title>Buttons</title>
+      <link>http://mokkiklubi.fi/elements/buttons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/elements/buttons/</guid>
+      <description>Buttons PRIMARY DEFAULT  LARGE DEFAULT SMALL  FIT FIT  FIT &amp;#43; SMALL FIT &amp;#43; SMALL  ICON ICON  PRIMARY DEFAULT  </description>
+    </item>
+    
+    <item>
+      <title>Form</title>
+      <link>http://mokkiklubi.fi/elements/form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/elements/form/</guid>
+      <description>Form   - Category - Manufacturing Shipping Administration Human Resources   Low  Normal  High  Email me a copy  I am a human               </description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>http://mokkiklubi.fi/elements/image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/elements/image/</guid>
+      <description>Image Fit  Gallery         Left &amp;amp; Right  Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</description>
+    </item>
+    
+    <item>
+      <title>Page Bundle Example</title>
+      <link>http://mokkiklubi.fi/blog/page-bundle-example/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/blog/page-bundle-example/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+    <item>
+      <title>Ante mattis interdum dolor</title>
+      <link>http://mokkiklubi.fi/blog/post2/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/blog/post2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+    <item>
+      <title>Odio magna sed consectetur</title>
+      <link>http://mokkiklubi.fi/blog/post4/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/blog/post4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+    <item>
+      <title>Augue lorem primis vestibulum</title>
+      <link>http://mokkiklubi.fi/blog/post3/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/blog/post3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://mokkiklubi.fi/contact/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/contact/</guid>
+      <description>          </description>
+    </item>
+    
+    <item>
+      <title>first post</title>
+      <link>http://mokkiklubi.fi/blog/post/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/blog/post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+    <item>
+      <title>Primis eget imperdiet lorem</title>
+      <link>http://mokkiklubi.fi/blog/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/blog/post1/</guid>
+      <description>Example of post with missing date property.</description>
+    </item>
+    
+    <item>
+      <title>Tilaukset</title>
+      <link>http://mokkiklubi.fi/generic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/generic/</guid>
+      <description>Mökkiklubi-tilaukset Mökkiklubi tarjoaa useampaa tilausta, jotta jokaiselle löytyisi sopiva vaihtoehto.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.</description>
+    </item>
+    
+    <item>
+      <title>Tilaukset</title>
+      <link>http://mokkiklubi.fi/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/posts/my-first-post/</guid>
+      <description>Mökkiklubi tarjoaa useampaa tilausta, jotta jokaiselle löytyy varmasti sopiva vaihtoehto.
+Seuraa tätä tilaa.</description>
+    </item>
+    
+    <item>
+      <title>Tilaukset</title>
+      <link>http://mokkiklubi.fi/tilaukset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mokkiklubi.fi/tilaukset/</guid>
+      <description>Mökkiklubi-tilaukset Mökkiklubi tarjoaa useampaa tilausta, jotta jokaiselle löytyisi sopiva vaihtoehto. Vertaa tilauksia alla.
+    Mökkiklubi 1 Mökkiklubi X Humpuukia     Hinta 10 e/kk 20 e/kk Kertamaksu   Muut kustannukset Vain yli jäävä Vain yli jäävä Ei sisälly   Yösija Oma / jaettu huone Oma / jaettu huone Jaettu tila   Peruutusturva 3 kk maksut 2 kk maksut Ei sisälly      Mökkiklubi 1 Adipiscing faucibus nunc placerat.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+### Banner ###
+banner:
+  enable: true
+  title: "Mökkiklubi"
+  content: "Tervetuloa lomalle." # Change this if you want something other then the site description
+  buttons:
+    - title: "Liity"
+      link: "#cta"
+      class: "primary"
+    - title: "Lue lisää"
+      link: "#main"
+
+### Highlight ###
+highlight:
+  enable: true
+  header: "Esittelyssä uuden ajan mökkielämys,<br />joka ei räjäytä pankkia. Päinvastoin."
+  content: "Tavoitteemme on helpottaa mökkiloman taloudellista iskua hajauttamalla<br />sen kustannukset pidemmälle aikavälille."
+  
+### image: "images/pic01.jpg" ###
+
+### Features ###
+features:
+  enable: true
+  rows:
+    - items:
+      - title: "Helppo kuukausitilaus"
+        icon: "fa-bolt"
+        accent: "accent2" #accent values are 1-8
+        content: "Alkaen vain kympillä kuussa varmistat paikkasi seuraavalla mökkilomalla sekä vaikuttaa sen järjestelyihin."
+      - title: "Ei sitoutumista"
+        icon: "fa-chart-area"
+        accent: "accent3" #accent values are 1-8
+        content: "Mökkiklubi-tilaajana et sitoudu mihinkään. Kuukausimaksu on ensimmäisen kuukauden jälkeen täysin vapaaehtoinen, mutta tehokas tapa pienentää loman taloudellista iskua."
+    - items:
+        - title: "Ei ylimääräisiä kuluja"
+          icon: "fa-cloud"
+          accent: "accent4" #accent values are 1-8
+          content: "Kertyneet varat käytetään majoitukseen. Mikäli varat eivät täysin riitä, maksat enää yli jäävän osuuden. Jos varoja jää yli, käytetään niitä muihin kustannuksiin."
+        - title: "Peruutusturva"
+          icon: "fa-lock"
+          accent: "accent5" #accent values are 1-8
+          content: "Kaikkiin kuukausitilauksiin kuuluu peruutusturva jopa 3 kk maksujen osalta, mikäli olet maksanut kuukausittain. Jos et voikaan osallistua, saat vähintään 30 euroa takaisin."
+
+### Blog ###
+blog:
+  enable: false
+  # Leave header text blank to remove entire <section>
+  header: ""
+  buttonText: "Lue lisää"
+  postCount: 2
+
+### Call to Action ###
+cta:
+  enable: true
+  header: "Liity Mökkiklubiin"
+  content: "Tarvitsemme aluksi vain sähköpostiosoitteesi. Seuraa saapuneet-kansiotasi."
