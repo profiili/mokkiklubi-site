@@ -141,16 +141,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum fac
     
     <item>
       <title>Tilaukset</title>
-      <link>https://mokkiklubi.fi/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mokkiklubi.fi/posts/my-first-post/</guid>
-      <description>Mökkiklubi tarjoaa useampaa tilausta, jotta jokaiselle löytyy varmasti sopiva vaihtoehto.
-Seuraa tätä tilaa.</description>
-    </item>
-    
-    <item>
-      <title>Tilaukset</title>
       <link>https://mokkiklubi.fi/tilaukset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
