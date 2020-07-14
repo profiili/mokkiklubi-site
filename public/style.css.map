@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/kone1/quickstart",
+	"sourceRoot": "/home/kone1/mokkiklubi-site",
 	"sources": [
 		"themes/alpha/assets/sass/main.scss",
 		"themes/alpha/assets/sass/libs/_vars.scss",

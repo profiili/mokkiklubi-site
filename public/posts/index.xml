@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ajankohtaista on Mökkiklubi</title>
-    <link>http://mokkiklubi.fi/posts/</link>
+    <link>https://mokkiklubi.fi/posts/</link>
     <description>Recent content in Ajankohtaista on Mökkiklubi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
     
-	<atom:link href="http://mokkiklubi.fi/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mokkiklubi.fi/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tilaukset</title>
-      <link>http://mokkiklubi.fi/posts/my-first-post/</link>
+      <link>https://mokkiklubi.fi/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mokkiklubi.fi/posts/my-first-post/</guid>
+      <guid>https://mokkiklubi.fi/posts/my-first-post/</guid>
       <description>Mökkiklubi tarjoaa useampaa tilausta, jotta jokaiselle löytyy varmasti sopiva vaihtoehto.
 Seuraa tätä tilaa.</description>
     </item>
