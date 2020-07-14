@@ -13,8 +13,8 @@ banner:
 ### Highlight ###
 highlight:
   enable: true
-  header: "Esittelyssä uuden ajan mökkielämys,<br />joka ei räjäytä pankkia. Päinvastoin."
-  content: "Tavoitteemme on helpottaa mökkiloman taloudellista iskua hajauttamalla<br />sen kustannukset pidemmälle aikavälille."
+  header: "Esittelyssä uuden ajan mökkielämys, <br />joka ei räjäytä pankkia. Päinvastoin."
+  content: "Tavoitteemme on helpottaa mökkiloman taloudellista iskua hajauttamalla <br />sen kustannukset pidemmälle aikavälille."
   
 ### image: "images/pic01.jpg" ###
 
