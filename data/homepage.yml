@@ -14,7 +14,7 @@ banner:
 highlight:
   enable: true
   header: "Esittelyssä uuden ajan mökkielämys, <br />joka ei räjäytä pankkia. Päinvastoin."
-  content: "Tavoitteemme on helpottaa mökkiloman taloudellista iskua hajauttamalla <br />sen kustannukset pidemmälle aikavälille."
+  content: "Tavoitteemme on helpottaa mökkiloman taloudellista iskua <br />hajauttamalla kustannukset pidemmälle aikavälille."
   
 ### image: "images/pic01.jpg" ###
 
@@ -26,7 +26,8 @@ features:
       - title: "Helppo kuukausitilaus"
         icon: "fa-bolt"
         accent: "accent2" #accent values are 1-8
-        content: "Alkaen vain kympillä kuussa varmistat paikkasi seuraavalla mökkilomalla sekä vaikuttaa sen järjestelyihin."
+        content: "Alkaen vain kympillä kuussa voit varmistaa paikkasi seuraavalla mökkilomalla sekä vaikuttaa sen järjestelyihin."
+        button: "Tutustu tilausvaihtoehtoihin"
       - title: "Ei sitoutumista"
         icon: "fa-chart-area"
         accent: "accent3" #accent values are 1-8
@@ -39,7 +40,7 @@ features:
         - title: "Peruutusturva"
           icon: "fa-lock"
           accent: "accent5" #accent values are 1-8
-          content: "Kaikkiin kuukausitilauksiin kuuluu peruutusturva jopa 3 kk maksujen osalta, mikäli olet maksanut kuukausittain. Jos et voikaan osallistua, saat vähintään 30 euroa takaisin."
+          content: "Kaikkiin kuukausitilauksiin kuuluu peruutusturva jopa 3 kk maksujen osalta, mikäli olet maksanut kuukausittain. Jos siis et voikaan osallistua, saat vähintään 30 euroa takaisin."
 
 ### Blog ###
 blog:

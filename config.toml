@@ -7,7 +7,7 @@ theme = "alpha"
   description = "Tervetuloa uuden ajan mökkielämykseen."
   images = ["images/pic01.jpg"]
   author = "Hugo-käännös: [Nelson/Roberto](https://nelsonroberto.com/)"
-  copyright = "© 2020 Mökkiklubi"
+  copyright = "© 2020 Mökkiklubi. Ei oikea tuote."
   design = "Teema: [HTML5 UP](http://html5up.net/)"
   ### mainSections = ["blog"] ###
 
@@ -25,8 +25,8 @@ link = "https://github.com/profiili/mokkiklubi-site"
     name = "Tilaukset"
     url = "/tilaukset/"
     weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "Ajankohtaista"
-    url = "/posts/"
-    weight = 20
+###  [[menu.main]]
+###    identifier = "posts"
+###    name = "Ajankohtaista"
+###    url = "/posts/"
+###    weight = 20
