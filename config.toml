@@ -12,10 +12,10 @@ theme = "alpha"
   ### mainSections = ["blog"] ###
 
 ### Footer Social Media Links ###
-[[params.share]]
-title = "github"
-icon = "fa-github"
-link = "https://github.com/profiili/mokkiklubi-site"
+### [[params.share]]
+### title = "github"
+### icon = "fa-github"
+### link = "https://github.com/profiili/mokkiklubi-site"
 
 ### For Pages the .RelPermalink must match the menu .URL
 ### For sections the name/directory must match the menu .Identifier
